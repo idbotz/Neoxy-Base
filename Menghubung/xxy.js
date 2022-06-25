@@ -454,12 +454,12 @@ menu =`${(help(prefix, author, botname, owner))}`
 let btn = [{
 urlButton: {
 displayText: 'My Website',
-url: 'https://github.com/Lexxy24'
+url: 'https://bit.ly/RankList_kai_network'
 }
 }, {
 urlButton: {
 displayText: 'My Youtube',
-phoneNumber: 'https://youtube.com/channel/UCGDk88W54RJOgk6b1p42NVg'
+phoneNumber: 'https://youtube.com/channel/UCHFnJDVtHXbb00cKvx_2Gfg'
 }
 }, {
 quickReplyButton: {
